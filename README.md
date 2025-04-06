@@ -87,3 +87,9 @@ Average reward: 759.9
 Best reward: 3580.0
 
 ```
+
+## 📚 References
+
+[OpenAI Gym Documentation](https://www.gymlibrary.dev/)
+
+[Atari Learning Environment (ALE)](https://github.com/Farama-Foundation/Arcade-Learning-Environment)
